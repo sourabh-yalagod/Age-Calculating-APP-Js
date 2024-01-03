@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sourabh-yalagod/Age-Calculating-APP-Js.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL(GitHub)](https://github.com/sourabh-yalagod/Age-Calculating-APP-Js.git)
+- Live Site URL: [Live Site](https://sourabh-yalagod.github.io/Age-Calculating-APP-Js/)
 
 
 
